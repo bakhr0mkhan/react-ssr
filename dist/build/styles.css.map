@@ -1,0 +1,1 @@
+{"version":3,"file":"build/styles.css","mappings":"AAEA,UAEI,oBAJe,C","sources":["webpack://react/./src/styles/styles.scss"],"sourcesContent":["$background-color: red;\r\n\r\nhtml,\r\nbody {\r\n    background-color: $background-color\r\n}"],"names":[],"sourceRoot":""}
